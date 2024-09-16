@@ -1,0 +1,68 @@
+[
+    {
+        "name": "This American Life",
+        "url": "https://www.thisamericanlife.org/",
+        "category": "生活",
+        "icon": "https://via.placeholder.com/80"
+    },
+    {
+        "name": "Planet Money",
+        "url": "https://www.npr.org/podcasts/510289/planet-money/",
+        "category": "经济",
+        "icon": "https://via.placeholder.com/80"
+    },
+    {
+        "name": "The Indicator from Planet Money",
+        "url": "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money",
+        "category": "经济",
+        "icon": "https://via.placeholder.com/80"
+    },
+    {
+        "name": "StartUp",
+        "url": "https://gimletmedia.com/shows/startup",
+        "category": "创业",
+        "icon": "https://via.placeholder.com/80"
+    },
+    {
+        "name": "Freakonomics Radio",
+        "url": "https://freakonomics.com/series/freakonomics-radio/",
+        "category": "经济",
+        "icon": "https://via.placeholder.com/80"
+    },
+    {
+        "name": "ChooseFI Podcast",
+        "url": "https://www.choosefi.com/podcast-essential-listening-guide/",
+        "category": "财务独立",
+        "icon": "https://via.placeholder.com/80"
+    },
+    {
+        "name": "Financial Independence Podcast",
+        "url": "https://www.madfientist.com/podcast/",
+        "category": "财务独立",
+        "icon": "https://via.placeholder.com/80"
+    },
+    {
+        "name": "Serial: Season One",
+        "url": "https://serialpodcast.org/season-one",
+        "category": "故事",
+        "icon": "https://via.placeholder.com/80"
+    },
+    {
+        "name": "Revisionist History",
+        "url": "https://www.pushkin.fm/podcasts/revisionist-history#episodes",
+        "category": "历史",
+        "icon": "https://via.placeholder.com/80"
+    },
+    {
+        "name": "Hot Money",
+        "url": "https://www.pushkin.fm/podcasts/hot-money",
+        "category": "经济",
+        "icon": "https://via.placeholder.com/80"
+    },
+    {
+        "name": "Hidden Brain",
+        "url": "https://hiddenbrain.org/",
+        "category": "心理学",
+        "icon": "https://via.placeholder.com/80"
+    }
+]
