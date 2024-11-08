@@ -64,5 +64,11 @@
         "url": "https://hiddenbrain.org/",
         "category": "心理学",
         "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
+    },
+    {
+        "name": "sobrief",
+        "url": "https://sobrief.com/bookmarks",
+        "category": "心理学",
+        "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
     }
 ]
