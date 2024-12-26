@@ -70,5 +70,23 @@
         "url": "https://sobrief.com/bookmarks",
         "category": "心理学",
         "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
+    },
+    {
+        "name": "psychologyofyour20sf",
+        "url": "https://open.spotify.com/show/2HGcJRYrjGnpce6bRp8UXm?si=9f48a6dbb12e4ddb&nd=1&dlsi=335c49d6b8cc45b6",
+        "category": "心理学",
+        "icon": ""
+    },
+    {
+        "name": "nostupidquestion",
+        "url": "https://freakonomics.com/series-full/nsq/",
+        "category": "心理学",
+        "icon": ""
+    },
+    {
+        "name": "modernlove",
+        "url": "https://www.nytimes.com/column/modern-love-podcast",
+        "category": "心理学",
+        "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
     }
 ]
