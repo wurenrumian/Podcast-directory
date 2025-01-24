@@ -88,5 +88,11 @@
         "url": "https://www.nytimes.com/column/modern-love-podcast",
         "category": "心理学",
         "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
+    },
+    {
+        "name": "Naval",
+        "url": "https://www.nytimes.com/column/modern-love-podcast",
+        "category": "财务独立",
+        "icon": "https://podcastnotes.org/naval-periscope-sessions/naval-ravikant-babak-nivi-podcast-philosophy-health-happiness/"
     }
 ]
