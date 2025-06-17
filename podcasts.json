@@ -1,7 +1,7 @@
 [
     {
         "name": "Planet Money",
-        "url": "https://www.npr.org/sections/money/planet-money/",
+        "url": "https://www.npr.org/sections/money/",
         "category": "经济学",
         "icon": ""
     },
@@ -13,13 +13,13 @@
     },
     {
         "name": "VoxTalks Economics",
-        "url": "https://voxeu.org/content/vox-talks-economics-podcast",
+        "url": "https://cepr.org/voxeu/voxtalks",
         "category": "经济学",
         "icon": ""
     },
     {
         "name": "Economics In Ten",
-        "url": "https://economicsinten.com/",
+        "url": "https://open.spotify.com/show/44pI1bcAKbrA2fLZpwJF4X",
         "category": "经济学",
         "icon": ""
     },
@@ -44,12 +44,6 @@
     {
         "name": "The Jordan B. Peterson Podcast",
         "url": "https://www.jordanbpeterson.com/podcast/",
-        "category": "社会哲学",
-        "icon": ""
-    },
-    {
-        "name": "Moral Maze",
-        "url": "https://www.bbc.co.uk/programmes/b006qnx3/episodes/downloads",
         "category": "社会哲学",
         "icon": ""
     },
@@ -90,12 +84,6 @@
         "icon": ""
     },
     {
-        "name": "Why Theory",
-        "url": "https://www.whytheory.com/",
-        "category": "心理学",
-        "icon": ""
-    },
-    {
         "name": "psychologyofyour20sf",
         "url": "https://www.psychologyofyour20s.com/",
         "category": "心理学",
@@ -111,12 +99,6 @@
         "name": "modernlove",
         "url": "https://www.nytimes.com/column/modern-love-podcast",
         "category": "心理学",
-        "icon": ""
-    },
-    {
-        "name": "Naval",
-        "url": "https://www.navalmanack.com/",
-        "category": "财务独立",
         "icon": ""
     }
 ]
