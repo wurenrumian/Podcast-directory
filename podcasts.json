@@ -39,7 +39,7 @@
         "name": "The Hidden Brain",
         "url": "https://hiddenbrain.org/podcast/",
         "category": "经济学",
-        "icon": ""
+        "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
     },
     {
         "name": "The Jordan B. Peterson Podcast",
@@ -81,13 +81,13 @@
         "name": "The Hidden Brain",
         "url": "https://hiddenbrain.org/podcast/",
         "category": "心理学",
-        "icon": ""
+        "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
     },
     {
         "name": "Brain in a Vat",
         "url": "https://braininavat.com/",
         "category": "心理学",
-        "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
+        "icon": ""
     },
     {
         "name": "Why Theory",
@@ -97,7 +97,7 @@
     },
     {
         "name": "psychologyofyour20sf",
-        "url": "https://open.spotify.com/show/2HGcJRYrjGnpce6bRp8UXm?si=9f48a6dbb12e4ddb&nd=1&dlsi=335c49d6b8cc45b6",
+        "url": "https://www.psychologyofyour20s.com/",
         "category": "心理学",
         "icon": ""
     },
@@ -111,12 +111,12 @@
         "name": "modernlove",
         "url": "https://www.nytimes.com/column/modern-love-podcast",
         "category": "心理学",
-        "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
+        "icon": ""
     },
     {
         "name": "Naval",
-        "url": "https://podcastnotes.org/naval-periscope-sessions/naval-ravikant-babak-nivi-podcast-philosophy-health-happiness/",
+        "url": "https://www.navalmanack.com/",
         "category": "财务独立",
-        "icon": "https://podcastnotes.org/naval-periscope-sessions/naval-ravikant-babak-nivi-podcast-philosophy-health-happiness/"
+        "icon": ""
     }
 ]
