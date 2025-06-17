@@ -1,74 +1,98 @@
 [
     {
-        "name": "This American Life",
-        "url": "https://www.thisamericanlife.org/",
-        "category": "生活",
-        "icon": "thisamericanlife.jpg"
-    },
-    {
         "name": "Planet Money",
-        "url": "https://www.npr.org/podcasts/510289/planet-money/",
-        "category": "经济",
-        "icon": "https://media.npr.org/assets/img/2018/08/02/planetmoney_sq-c7d1c6f90d1890d0dde32fd33a89c0c8c37d834c.jpg"
-    },
-    {
-        "name": "The Indicator from Planet Money",
-        "url": "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money",
-        "category": "经济",
-        "icon": "https://media.npr.org/assets/img/2018/04/06/the-indicator_sq-f7a7b184ca94b87bb8b67c6d8de6a1f8f7e1d5d8.jpg"
-    },
-    {
-        "name": "StartUp",
-        "url": "https://gimletmedia.com/shows/startup",
-        "category": "创业",
-        "icon": "https://megaphone.imgix.net/podcasts/23d52a2a-1c5f-11e8-94ec-eb0a6a86a233/image/uploads_2F1602100053435-jt18j9l47wj-3a4fc00452b8f4d7f4e9d8a2a9f7b62f_2FStartUp_ShowArt.jpg"
+        "url": "https://www.npr.org/sections/money/planet-money/",
+        "category": "经济学",
+        "icon": ""
     },
     {
         "name": "Freakonomics Radio",
-        "url": "https://freakonomics.com/series/freakonomics-radio/",
-        "category": "经济",
-        "icon": "https://freakonomics.com/wp-content/uploads/2021/10/freakonomics-radio-album-art-3000x3000-1.png"
+        "url": "https://freakonomics.com/archive/",
+        "category": "经济学",
+        "icon": ""
     },
     {
-        "name": "ChooseFI Podcast",
-        "url": "https://www.choosefi.com/podcast-essential-listening-guide/",
-        "category": "财务独立",
-        "icon": "https://www.choosefi.com/wp-content/uploads/2020/01/ChooseFI-Podcast-Cover-Art-1400x1400.jpg"
+        "name": "VoxTalks Economics",
+        "url": "https://voxeu.org/content/vox-talks-economics-podcast",
+        "category": "经济学",
+        "icon": ""
     },
     {
-        "name": "Financial Independence Podcast",
-        "url": "https://www.madfientist.com/podcast/",
-        "category": "财务独立",
-        "icon": "https://www.madfientist.com/wp-content/uploads/2012/09/financial-independence-podcast-artwork.jpg"
+        "name": "Economics In Ten",
+        "url": "https://economicsinten.com/",
+        "category": "经济学",
+        "icon": ""
     },
     {
-        "name": "Serial: Season One",
-        "url": "https://serialpodcast.org/season-one",
-        "category": "故事",
-        "icon": "https://serialpodcast.org/sites/all/themes/serial/img/serial-social-logo.png"
+        "name": "The MMT Podcast",
+        "url": "https://mmtpodcast.com/",
+        "category": "经济学",
+        "icon": ""
     },
     {
-        "name": "Revisionist History",
-        "url": "https://www.pushkin.fm/podcasts/revisionist-history#episodes",
-        "category": "历史",
-        "icon": "https://images.squarespace-cdn.com/content/v1/57a8c6a0ff7c50d4e9a0b345/1470764033971-JVWVFVQTXQCPE3JNWQXL/RH_Logo_1400x1400.jpg"
+        "name": "Econtalk",
+        "url": "https://www.econtalk.org/",
+        "category": "经济学",
+        "icon": ""
     },
     {
-        "name": "Hot Money",
-        "url": "https://www.pushkin.fm/podcasts/hot-money",
-        "category": "经济",
-        "icon": "https://images.squarespace-cdn.com/content/v1/5d3c4e0c1b6e0f00016b2c3d/1657037604658-YJHQJJJXVWQXWXVWQWXW/Hot+Money+Cover+Art.jpg"
+        "name": "The Hidden Brain",
+        "url": "https://hiddenbrain.org/podcast/",
+        "category": "经济学",
+        "icon": ""
     },
     {
-        "name": "Hidden Brain",
-        "url": "https://hiddenbrain.org/",
+        "name": "The Jordan B. Peterson Podcast",
+        "url": "https://www.jordanbpeterson.com/podcast/",
+        "category": "社会哲学",
+        "icon": ""
+    },
+    {
+        "name": "Moral Maze",
+        "url": "https://www.bbc.co.uk/programmes/b006qnx3/episodes/downloads",
+        "category": "社会哲学",
+        "icon": ""
+    },
+    {
+        "name": "Philosophize This!",
+        "url": "https://www.philosophizethis.org/",
+        "category": "社会哲学",
+        "icon": ""
+    },
+    {
+        "name": "The Partially Examined Life",
+        "url": "https://partiallyexaminedlife.com/",
+        "category": "社会哲学",
+        "icon": ""
+    },
+    {
+        "name": "Making Sense with Sam Harris",
+        "url": "https://samharris.org/podcast/",
+        "category": "社会哲学",
+        "icon": ""
+    },
+    {
+        "name": "Philosophy For Our Times",
+        "url": "https://iai.tv/series/philosophy-for-our-times",
+        "category": "社会哲学",
+        "icon": ""
+    },
+    {
+        "name": "The Hidden Brain",
+        "url": "https://hiddenbrain.org/podcast/",
         "category": "心理学",
-        "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
+        "icon": ""
     },
     {
-        "name": "sobrief",
-        "url": "https://sobrief.com/bookmarks",
+        "name": "Brain in a Vat",
+        "url": "https://braininavat.com/",
         "category": "心理学",
-        "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
+        "icon": ""
+    },
+    {
+        "name": "Why Theory",
+        "url": "https://www.whytheory.com/",
+        "category": "心理学",
+        "icon": ""
     }
 ]

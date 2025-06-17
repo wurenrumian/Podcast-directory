@@ -21,9 +21,11 @@ function init() {
 function createPodcastCard(podcast) {
     const card = document.createElement('div');
     card.className = 'podcast-card';
+    const iconSrc = podcast.icon || 'placeholder.jpg'; // 使用默认图标
     card.innerHTML = `
-        <img src="${podcast.icon}" alt="${podcast.name}" class="podcast-icon">
+        <img src="${iconSrc}" alt="${podcast.name}" class="podcast-icon">
         <h2>${podcast.name}</h2>
+        <p class="podcast-category">${podcast.category}</p>
         <a href="${podcast.url}" target="_blank">访问播客</a>
     `;
     return card;
