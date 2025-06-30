@@ -6,6 +6,12 @@
         "icon": ""
     },
     {
+        "name": "The Hidden Brain",
+        "url": "https://hiddenbrain.org/podcast/",
+        "category": "心理学",
+        "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
+    },
+    {
         "name": "Freakonomics Radio",
         "url": "https://freakonomics.com/archive/",
         "category": "经济学",
@@ -20,12 +26,6 @@
     {
         "name": "Economics In Ten",
         "url": "https://open.spotify.com/show/44pI1bcAKbrA2fLZpwJF4X",
-        "category": "经济学",
-        "icon": ""
-    },
-    {
-        "name": "The MMT Podcast",
-        "url": "https://mmtpodcast.com/",
         "category": "经济学",
         "icon": ""
     },
@@ -63,30 +63,6 @@
         "name": "Making Sense with Sam Harris",
         "url": "https://samharris.org/podcast/",
         "category": "社会哲学",
-        "icon": ""
-    },
-    {
-        "name": "Philosophy For Our Times",
-        "url": "https://iai.tv/series/philosophy-for-our-times",
-        "category": "社会哲学",
-        "icon": ""
-    },
-    {
-        "name": "The Hidden Brain",
-        "url": "https://hiddenbrain.org/podcast/",
-        "category": "心理学",
-        "icon": "https://hiddenbrain.org/wp-content/uploads/2021/07/HiddenBrain_2021_3000x3000.png"
-    },
-    {
-        "name": "Brain in a Vat",
-        "url": "https://braininavat.com/",
-        "category": "心理学",
-        "icon": ""
-    },
-    {
-        "name": "psychologyofyour20sf",
-        "url": "https://www.psychologyofyour20s.com/",
-        "category": "心理学",
         "icon": ""
     },
     {
