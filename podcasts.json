@@ -30,6 +30,12 @@
         "icon": ""
     },
     {
+        "name": "Reuters podcast",
+        "url": "https://www.reuters.com/podcasts/reuters-econ-world/",
+        "category": "经济学",
+        "icon": ""
+    },
+    {
         "name": "Econtalk",
         "url": "https://www.econtalk.org/",
         "category": "经济学",
